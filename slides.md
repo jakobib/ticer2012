@@ -12,7 +12,7 @@
 
 *Which* notion of cloud do libraries refer to?
 
-[^1]: Used primarily to impress and persuade, unconcerned with falsehoods
+[^1]: to impress and persuade, unconcerned with falsehoods (Frankfurt, 2005)
 
 ## Three notions of the Cloud
 
@@ -62,10 +62,10 @@
 
 ![][wine] 
  
-* Can be used in different context and times
-  (if it is well done)
-    * consider special properties of data
-	* consider different notions of data
+* Can be used in different context and times,
+  if it is well done:
+    * respect special properties of data
+	* respect different notions of data
 
 ## Special properties of data
 
@@ -152,7 +152,7 @@ This is where libraries are needed!
     * Patron information
     * Formal metadata
 * Collected by libraries
-    * research data (*)
+    * research data
 
 ## Data as subjective observations
 
@@ -168,7 +168,7 @@ This is where libraries are needed!
     * User studies
     * Analysis of publication trends
 * Collected by libraries
-    * research data (*)
+    * research data
 
 ## Data as communications
 
@@ -179,16 +179,10 @@ This is where libraries are needed!
 
 ## Data as communications in libraries
 
-* Refered to by many names
-    * Digital objects
-	* electronic resources
-	* informational objects
-	* electronic publications
-	* ...	
+digital objects, electronic resources, informational objects, electronic
+publications, ..., **digital documents**
+
 * Collected by libraries
-    * **digital documents**
-* Created by libraries
-    * Your own digital publications
 
 ## Data as communications/documents in libraries
 
@@ -198,7 +192,7 @@ lost in the history of library and information science / documentation
 science (Ørom 2007).
 
 * **Advice:** Don't mess with research data as facts or as observations but 
-  treat them as documents, like any other digital publications!
+  treat them as documents, like other (digital) publications!
 
 [^5]: See Buckland (1997,1998) for an introduction.
 
@@ -244,49 +238,19 @@ sites, libraries are only temporary, intermediary retailers.
   Actually collect and process digital documents (or you won't be
   in the document business anymore)
 
-## Why libraries?
+## Why and how can libraries care for digital documents?
 
-* Libraries are used to deal with documents
-* Libraries can respond to data challenges, because of:
-    * Trust
-    * Neutrality
-	* Persistence
-    * Less affected by hypes (hopefully)
-
-## Libraries in a data-centered environment
-
-* Care for digital documents
-* Create original data
-    * and publish it as digital documents
-
-## Original data from libraries
-
-* Data not used as documents:
-    * facts: library data 
-      (holdings, patrons, loans, formal metadata)
-    * observations: subject metadata 
-      (descriptions)
-    * communication: your publications
-* Can be used in other context and times 
-	* Example: Authority files, connected via VIAF
-    * Good use of data refers to you as source and authority
-* **Advice:** Provide as much as possible your original data and documents.
-   Just publish and care for this documents like any other acquisitions.
-
-## What does it mean to care for digital documents?
-
-* What you already do for physical documents
+* Libraries are used to deal with documents (data as communications)
     * collect digital document
     * arrange digital documents
     * make available digital documents
+* Libraries can respond to the **data challenges**, because of:
+    * Trust
+    * Neutrality
+	* Persistence
 * Ensure that documents can be used as data:
     * copying
 	* modification
-* Provide solutions to the data challenges
-    * preservation
-	* authenticity
-	* provenance
-	* identity
 
 ## Example: Collections
 
@@ -297,9 +261,11 @@ sites, libraries are only temporary, intermediary retailers.
 
 ![](img/yadvashem.png)
 
+<!--
 ----
 
 ![](img/locflickr.png)
+-->
 
 ## Example: Annotations
 
@@ -323,9 +289,8 @@ One must be able to
 
 ## The situation
 
-* There is no cloud but IaaS, PaaS, and web applications (SaaS)
-* Software is inherently complex and becomes obsolete ("fish")
-* Data ages less rapidly because it can be used in **different context and time** ("wine")
+* Software is inherently complex and becomes obsolete
+* Data ages less rapidly if it can be used in **different context and time**
 
 *In the end all content will be digital -- get used to it!*
 
@@ -334,23 +299,31 @@ One must be able to
 > “Data that is loved tends to survive” 
 --- Kurt Bollacker
 
-## Avoid confusion
-
-* Better treat data as documents instead if digging into details of research
-  data
-* You need full control of the e-resources (copy and modify)
-	* Be able to store whereever you like
-	* Be able to transform to any form you like
-	* Be able to combine with any data you like 
+* respect special properties of data
+	* copying and modification must be possible
+		* Be able to store whereever you like
+		* Be able to transform to any form you like
+		* Be able to combine with any data you like 
+	* digital collections and metadata are also data
+* respect different notions of data
+	* focus on data as communications instead of 
+	  digging into details of research data
+* Provide solutions to the data challenges
+    * preservation
+	* authenticity
+	* provenance
+	* identity
 
 ## Where to start
 
 * Collect digital publications!
 	* Start archiving public websites, blogs, mailing lists etc.
-	* Create and manage data/document repositories
+	* Create and manage data/document repositories (see yesterday's talks)
     * Invest in preservation
-* Provide data as accessible as possible
-    * Publish your own digital publications
+    * Exchange digital documents with other libraries and initiatives
+      (see following talk by Herbert van de Sompel, LOCKSS...)
+* Provide data as accessible as possible (Open Data)
+* Publish your own digital publications
 * Allow annotating and connecting with your digital documents
     * simple access will not be the primary role of libraries 
     * Data needs to be usable in different context and times
@@ -443,3 +416,19 @@ Q&A about libraries and information science
 Source code and images of this presentation are available at
 <https://github.com/jakobib/ticer2012> to be copied and modified
 under CC-BY-SA license.
+
+## Original data from libraries
+
+* Data not used as documents:
+    * facts: library data 
+      (holdings, patrons, loans, formal metadata)
+    * observations: subject metadata 
+      (descriptions)
+    * communication: your publications
+* Can be used in other context and times 
+	* Example: Authority files, connected via VIAF
+    * Good use of data refers to you as source and authority
+* **Advice:** Provide as much as possible your original data and documents.
+   Just publish and care for this documents like any other acquisitions.
+
+
