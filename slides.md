@@ -1,5 +1,5 @@
-% Jakob Voß
 % Libraries in a data-centered environment
+% Jakob Voß
 % Ticer Summer School, August 22th, 2012
 
 # Prolegomena
