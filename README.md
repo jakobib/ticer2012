@@ -1,16 +1,17 @@
-This repository contains a talk given at the [Ticer Summer School 2012][ticer] 
+This repository contains a talk given at the [Ticer Summer School
+2012](http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticer/2012/)
 in Tilburg at August 22th.
 
-## SYNOPSIS
+SYNOPSIS
+--------
 
-Slides are given in Pandoc Markdown syntax in `slides.md`. There is
-a `Makefile` to create a PDF:
+Slides are given in Pandoc Markdown syntax in `slides.md`. There is a
+`Makefile` to create a PDF, given the submodule `make`:
 
-    make pdf
+    make slides.pdf
 
-## LICENSE
+LICENSE
+-------
 
-All text and source code is made available under CC-BY-SA.
-Image licenses are mentioned in the sourcefile `slides.md`.
-
-[ticer]: http://www.tilburguniversity.edu/research/institutes-and-research-groups/ticer/2012/
+All text and source code is made available under CC-BY-SA. Image
+licenses are mentioned in the sourcefile `slides.md`.
